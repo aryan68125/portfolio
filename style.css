@@ -228,7 +228,7 @@ card-image-size{
     color:#FFFFFF !important;
 }
 .verticalscroll {
-    height:350px;
+    height:700px;
     overflow: auto; /* For browsers that can't do overflow-y */
     overflow-y: scroll; /* Controls overflow on the y-axis */
 }
